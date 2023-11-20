@@ -1,0 +1,9 @@
+- accidentally ordered an 0402 resistor for R1 when footprint was 0603
+- LED is too damn bright
+- didn't put fucking SDA and SCL test points
+- C11 - C15 in a line like they are was painful to get in place
+- 0402s are generally a pain. 0603 possible?
+- 2n caps should be 1n for good parallel impedance
+- INTB should be connected on both LDCs for interrupt driven comms
+- use the STM32 with the larger flash, worth the extra 10c or whatever
+- add 40MHz external oscillator for increased accuracy

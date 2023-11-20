@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PCB_Coil")(type "KiCad")(uri "${KIPRJMOD}/PCB_Coil.pretty")(options "")(descr ""))
+)
